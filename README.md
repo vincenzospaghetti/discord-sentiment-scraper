@@ -1,3 +1,5 @@
+This was a test with the ChatGPT bot to see if it could create a scraper for Discord with natural language. The scaprer likely does not work :) but it was fun to test out the chat.
+
 # discord-sentiment-scraper
 ## This is a simple program to scape sentiment data from discord.
 
